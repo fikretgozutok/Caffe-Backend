@@ -1,0 +1,15 @@
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/bin/Debug/net8.0/ConsoleUI
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/bin/Debug/net8.0/ConsoleUI.deps.json
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/bin/Debug/net8.0/ConsoleUI.runtimeconfig.json
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/bin/Debug/net8.0/ConsoleUI.dll
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/bin/Debug/net8.0/ConsoleUI.pdb
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.AssemblyInfoInputs.cache
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.AssemblyInfo.cs
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.sourcelink.json
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.dll
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/refint/ConsoleUI.dll
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.pdb
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ConsoleUI.genruntimeconfig.cache
+/home/arawn/Desktop/backend/Caffe-Backend/ConsoleUI/obj/Debug/net8.0/ref/ConsoleUI.dll
